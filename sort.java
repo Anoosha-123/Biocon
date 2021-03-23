@@ -9,7 +9,7 @@ public static void main(String args[])
 //implementation of HashMap  
 HashMap<Integer, String> hm=new HashMap<Integer, String>();  
 //addding keys and values to HashMap  
-hm.put(1, "Yash");  
+hm.put(1, "Yash123");  
 hm.put(17, "Arun");  
 hm.put(15, "Swarit");  
 hm.put(9, "Neelesh");  
